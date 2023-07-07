@@ -21,7 +21,7 @@ body > div {
 
 h1 {
   position: absolute;
-  top: 14rem;
+  top: 13rem;
   color: rgba(253, 253, 253, 0.2);
   -webkit-text-stroke: 1px rgb(255, 0, 0);
 }
