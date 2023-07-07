@@ -1,5 +1,5 @@
 ###
 
-Review, practice CSS, JS
+Review, practice CSS, JS with mini lab!
 
 ###
